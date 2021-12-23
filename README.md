@@ -1,4 +1,4 @@
-# a simple ssh_config parser
+# a simple ssh_config parser written with typescript-deno
 
 now I have so many entries in my ~/.ssh/config and like to make easy to find one.
 this is a simple solution. this cli app returns the entry as JSON.
