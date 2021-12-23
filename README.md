@@ -19,5 +19,11 @@ for example like that:
 }
 ```
 
-## TODO
-- how to install this app
+## requirement
+- deno
+- environment variable as $HOME, on which .ssh directory is located.
+
+## install
+```
+❯ deno install --name sshconfig --allow-read --allow-env https://raw.githubusercontent.com/yoshito-maeoka/sshconfig/main/index.ts
+```
