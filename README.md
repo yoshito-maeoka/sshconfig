@@ -18,3 +18,6 @@ for example like that:
   IdentityFile: "~/.ssh/id_rsa"
 }
 ```
+
+## TODO
+- how to install this app
