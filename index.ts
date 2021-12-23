@@ -1,4 +1,5 @@
-// examples/06_readfile_chunk.ts
+#!/usr/bin/env deno run --allow-env --allow-read
+
 import * as Colors from "https://deno.land/std/fmt/colors.ts";
 import { readLines } from "https://deno.land/std@0.89.0/io/mod.ts";
 import { Host } from "./types.d.ts";
